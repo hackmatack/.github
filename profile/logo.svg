@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100%" viewBox="0 0 540 540" role="img" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @font-face {
+      font-family: "Hack";
+      font-weight: 700;
+      font-style: normal;
+      src: url("data:font/woff2;base64,d09GMgABAAAAAAQ8AAwAAAAACCAAAAPtAAMAxQAAAAAAAAAAAAAAAAAAAAAAAAAAHCoGYABsEQgKhVSEFAE2AiQDHAscAAQgBYUsByAbcwYIjsJxrwRlKEu8ylAmIiKoxsqePUT16hVpYPlCIahXmLCyUZZUKo7AEqho3gM87VJ5cpbNxWD8iDaV8oBcvAAr1pb3wduXgJVKS4R4zDcOb3h+kmnCQ7bUzTskqjbvlPQZdWP25CJxSWLasRNxDnRXgboxoUgr+aU1wDvtJHTgjgL5PwCKxavpAJQoTVEuAHeaTXoMT45yg8Ekk5pDChAeem01B2BUiAFl53/OyDy6FnkMBBSPqXZgFBkJBQyRBYYotoG2qqRsXJRkLdoNyBnjRBhttN3+Pcjn8mryZIEm6AOU1JVVhaSpJkTOOqAFRgBW+C6IGgBFQEEISTgmtAWubIqjQ6gDhVbTtePqbOTh9Xb2+ForaVTXeECQJlascTUW0rAx9eNsvotsyFC7383jrP4LrTDEglqaufSaOjmXwSUJ+rP7snqPOxd+reqF14NVa3OoZVz1wNsjH1Z5ReZmt9fPmMEal75uGzLUa/564fqQ1ezxK11WhnVOZW3NAovIYqlx1j4pGbiu5h39uRROf3YfVq0TOB45vEv9CiULl7IU3j/6He13ZPjIRBz8/kNGjaS9/SWXDJAMEjgQSVCOI6ODoAR/5+BQ2BJHXz63E1nayiW8+C7ZPZJoUi8HUmclpxfsJxcvvf9p/FTtFJ+rxZTtUClZ30UFT78Pqp8hb2pjqoRe2ThWWozhlBJeI5WWnK80TFbFYMUlfHNhNYZB/75VJhw+l67oWMLMf9U9V+hZq+Rnnt77KtBh+fVZxgpmZN6gerfSZf550yKzRzTV+J2A7smQfWNiKqrtvhzrUYnFgO8NKwjB/Iz1blTw9LvQ+sD5jDPc+eEW4AZ+Jz6PgeET3y/WrztEn9JEqaJPAAIFj/7detu3nZ/6lVFmALwdHBsCePtw2YpfcX9uUrfQr0KUJRBUzv75ABRfqPT/yT0gnP5MFK9S6G8eXMZ+ZACyA3nOqM3d+GYBgpbbfAFC2lexiyyKTOAxQKZQ9RhJ89pUsOyOqagf7qZSuCLhZynrp0zIoWfQl4mSnAIBFapbGFS0SFESoXrQ68lkDhnnyzgdKZO+UFlJJijoC8zDRUDtxUgx3GUjZlOKZsRpMp20RFBFdLpJoLJoaKCqLdkMlZIxkzHpRUZKolCnbmrZ9DSkn6/HiWTokg8tXcneG6m47s35Zkp6OqgYEj+hFM0X2yhRYuETosWJ10rMF2u8bTOTSYEiEHCdwRGTxJR0EWX3EkUiISgW++Z4AFMkTmTxFoQoCfp4oogLFZp45GZrdCLosD0cWh/mVSfeJlYjiwShDwK2gt7BAoDrdyYEDQkMFpdO/EsykAM1/WkAAA==") format("woff2");
+    }
+    text {
+      font-family: "Hack";
+      font-size: 16px;
+      font-weight: 700;
+    }
+    .outline { text-anchor: end; }
+    .digit   { text-anchor: start; }
+    .foliage { fill: #5fbf95; }
+    .fruit   { fill: #e6a558; }
+    .trunk   { fill: #b8895c; }
+  </style>
+
+  <text class="outline foliage" x="266" y="68">^</text>
+  <g class="digit">
+    <text class="foliage" x="278" y="68">0</text>
+  </g>
+
+  <text class="outline" x="266" y="92"><tspan class="foliage">/</tspan><tspan class="trunk">|</tspan></text>
+  <g class="digit">
+    <text class="fruit" x="278" y="92">1</text>
+    <text class="fruit" x="294" y="92">1</text>
+  </g>
+
+  <text class="outline" x="266" y="116"><tspan class="foliage">_/-</tspan><tspan class="trunk">|</tspan></text>
+  <g class="digit">
+    <text class="foliage" x="278" y="116">0</text>
+    <text class="fruit"   x="294" y="116">1</text>
+    <text class="foliage" x="310" y="116">0</text>
+  </g>
+
+  <text class="outline" x="266" y="140"><tspan class="foliage">-/---</tspan><tspan class="trunk">\|</tspan></text>
+  <g class="digit">
+    <text class="foliage" x="278" y="140">0</text>
+    <text class="foliage" x="294" y="140">0</text>
+    <text class="foliage" x="310" y="140">0</text>
+    <text class="fruit"   x="326" y="140">1</text>
+  </g>
+
+  <text class="outline" x="266" y="164"><tspan class="foliage">--</tspan><tspan class="trunk">||</tspan></text>
+  <g class="digit">
+    <text class="fruit" x="278" y="164">1</text>
+  </g>
+
+  <text class="outline" x="266" y="188"><tspan class="foliage">-.-/--</tspan><tspan class="trunk">||</tspan></text>
+  <g class="digit">
+    <text class="foliage" x="278" y="188">0</text>
+    <text class="foliage" x="294" y="188">0</text>
+    <text class="foliage" x="310" y="188">0</text>
+    <text class="foliage" x="326" y="188">0</text>
+  </g>
+
+  <text class="outline" x="266" y="212"><tspan class="foliage">-.,//---/--</tspan><tspan class="trunk">||</tspan></text>
+  <g class="digit">
+    <text class="fruit"   x="278" y="212">1</text>
+    <text class="foliage" x="294" y="212">0</text>
+    <text class="fruit"   x="310" y="212">1</text>
+    <text class="fruit"   x="326" y="212">1</text>
+    <text class="foliage" x="342" y="212">0</text>
+    <text class="foliage" x="358" y="212">0</text>
+    <text class="foliage" x="374" y="212">0</text>
+  </g>
+
+  <text class="outline" x="266" y="236"><tspan class="foliage">-.,'/---</tspan><tspan class="trunk">||</tspan></text>
+  <g class="digit">
+    <text class="fruit"   x="278" y="236">1</text>
+    <text class="fruit"   x="294" y="236">1</text>
+    <text class="foliage" x="310" y="236">0</text>
+    <text class="fruit"   x="326" y="236">1</text>
+    <text class="fruit"   x="342" y="236">1</text>
+  </g>
+
+  <text class="outline" x="266" y="260"><tspan class="foliage">/-</tspan><tspan class="trunk">\|</tspan></text>
+  <g class="digit">
+    <text class="foliage" x="278" y="260">0</text>
+  </g>
+
+  <text class="outline" x="266" y="284"><tspan class="foliage">-.,/---,/---</tspan><tspan class="trunk">||</tspan></text>
+  <g class="digit">
+    <text class="fruit"   x="278" y="284">1</text>
+    <text class="foliage" x="294" y="284">0</text>
+    <text class="fruit"   x="310" y="284">1</text>
+    <text class="fruit"   x="326" y="284">1</text>
+    <text class="foliage" x="342" y="284">0</text>
+    <text class="fruit"   x="358" y="284">1</text>
+    <text class="fruit"   x="374" y="284">1</text>
+    <text class="foliage" x="390" y="284">0</text>
+  </g>
+
+  <text class="outline" x="266" y="308"><tspan class="foliage">-.,/--.,--</tspan><tspan class="trunk">||</tspan></text>
+  <g class="digit">
+    <text class="fruit"   x="278" y="308">1</text>
+    <text class="fruit"   x="294" y="308">1</text>
+    <text class="foliage" x="310" y="308">0</text>
+    <text class="fruit"   x="326" y="308">1</text>
+    <text class="foliage" x="342" y="308">0</text>
+    <text class="fruit"   x="358" y="308">1</text>
+    <text class="fruit"   x="374" y="308">1</text>
+  </g>
+
+  <text class="outline" x="266" y="332"><tspan class="foliage">/--</tspan><tspan class="trunk">\|</tspan></text>
+  <g class="digit">
+    <text class="foliage" x="278" y="332">0</text>
+  </g>
+
+  <text class="outline" x="266" y="356"><tspan class="foliage">-..//--,-/-/--</tspan><tspan class="trunk">||</tspan></text>
+  <g class="digit">
+    <text class="foliage" x="278" y="356">0</text>
+    <text class="foliage" x="294" y="356">0</text>
+    <text class="foliage" x="310" y="356">0</text>
+    <text class="fruit"   x="326" y="356">1</text>
+    <text class="foliage" x="342" y="356">0</text>
+    <text class="fruit"   x="358" y="356">1</text>
+    <text class="fruit"   x="374" y="356">1</text>
+  </g>
+
+  <text class="outline" x="266" y="380"><tspan class="foliage">-:,'/---.,/--,/---</tspan><tspan class="trunk">||</tspan></text>
+  <g class="digit">
+    <text class="fruit"   x="278" y="380">1</text>
+    <text class="foliage" x="294" y="380">0</text>
+    <text class="fruit"   x="310" y="380">1</text>
+    <text class="foliage" x="326" y="380">0</text>
+    <text class="foliage" x="342" y="380">0</text>
+    <text class="foliage" x="358" y="380">0</text>
+    <text class="fruit"   x="374" y="380">1</text>
+    <text class="fruit"   x="390" y="380">1</text>
+    <text class="foliage" x="406" y="380">0</text>
+    <text class="foliage" x="422" y="380">0</text>
+    <text class="foliage" x="438" y="380">0</text>
+  </g>
+
+  <text class="outline" x="266" y="404"><tspan class="foliage">_/-</tspan><tspan class="trunk">||</tspan></text>
+  <g class="digit">
+    <text class="foliage" x="278" y="404">0</text>
+  </g>
+
+  <text class="outline" x="266" y="428"><tspan class="foliage">--.,/--,//---/</tspan><tspan class="trunk">||</tspan></text>
+  <g class="digit">
+    <text class="fruit"   x="278" y="428">1</text>
+    <text class="foliage" x="294" y="428">0</text>
+    <text class="fruit"   x="310" y="428">1</text>
+    <text class="fruit"   x="326" y="428">1</text>
+    <text class="foliage" x="342" y="428">0</text>
+    <text class="foliage" x="358" y="428">0</text>
+    <text class="foliage" x="374" y="428">0</text>
+    <text class="fruit"   x="390" y="428">1</text>
+  </g>
+
+  <text class="outline trunk" x="266" y="452">|||</text>
+  <g class="digit">
+    <text class="trunk"   x="278" y="452">1</text>
+    <text class="foliage" x="294" y="452">0</text>
+  </g>
+
+  <text class="outline trunk" x="266" y="476">_________/|||</text>
+  <g class="digit">
+    <text class="trunk"   x="278" y="476">1</text>
+    <text class="trunk"   x="294" y="476">1</text>
+    <text class="foliage" x="310" y="476">0</text>
+    <text class="trunk"   x="326" y="476">1</text>
+    <text class="foliage" x="342" y="476">0</text>
+    <text class="trunk"   x="358" y="476">1</text>
+    <text class="trunk"   x="374" y="476">1</text>
+  </g>
+</svg>
