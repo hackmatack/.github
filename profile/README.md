@@ -5,3 +5,7 @@
 # hackmatack
 
 people, technology, passion
+
+---
+
+Proud sponsor of [ƒink](https://github.com/fink-lang).
